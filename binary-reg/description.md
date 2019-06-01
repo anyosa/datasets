@@ -1,7 +1,5 @@
 This dataset was obtained from the Ministry of Education of Peru, more information [here](http://www.teses.usp.br/teses/disponiveis/104/104131/tde-06092017-160302/en.php).
 
-![Results-](static/img/rs-img.png)
-
 # Features:
 
 * area (integer) is the area of the school: urban (0) and rural (1).
